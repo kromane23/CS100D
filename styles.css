@@ -1,0 +1,21 @@
+.firstpara {
+    color:rgb(10, 10, 10);
+    font-size:18px;
+    text-align: left;
+    font-family: Segoe UI;
+}
+
+.secondpara{
+    color:black;
+    font-size: 16px;
+    text-align: left;
+    font-family: 'Segoe UI';
+
+}
+
+body {background-color: beige;
+color: black;
+font: size 16px;
+text-align: left;
+font-family: segoe UI;
+}
